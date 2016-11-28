@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {"Rakshazi\\": "src"}
+    }
+}
